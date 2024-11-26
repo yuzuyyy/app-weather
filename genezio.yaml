@@ -6,7 +6,7 @@ frontend:
             - npm run build
         deploy:
             - npm install
-    subdomain: Perkiraan-cuaca
-name: Perkiraan-cuaca
+    subdomain: app-weather
+name: app-weather
 region: us-east-1
 yamlVersion: 2
